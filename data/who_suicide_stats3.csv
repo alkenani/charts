@@ -1,0 +1,315 @@
+country,total,population,perCapita,continent
+North East,513242,4856,22,County Durham
+North East,105564,2205,22,Darlington
+North East,92028,1304,22,Hartlepool
+North East,138412,10768,22,Middlesbrough
+North East,316028,2658,22,Northumberland
+North East,135177,869,22,Redcar and Cleveland
+North East,191610,6632,22,Stockton-on-Tees
+North East,200214,3738,22,Gateshead
+North East,280177,27107,22,Newcastle upon Tyne
+North East,200801,3815,22,North Tyneside
+North East,148127,3311,22,South Tyneside
+North East,275506,7336,22,Sunderland
+North West,147489,41494,22,Blackburn with Darwen
+North West,142065,2282,22,Blackpool
+North West,370127,6060,22,Cheshire East
+North West,329608,4097,22,Cheshire West and Chester
+North West,125746,943,22,Halton
+North West,202228,4911,22,Warrington
+North West,96422,477,22,Allerdale
+North West,69087,633,22,Barrow-in-Furness
+North West,107524,1248,22,Carlisle
+North West,70603,629,22,Copeland
+North West,52564,292,22,Eden
+North West,103658,787,22,South Lakeland
+North West,276786,38749,22,Bolton
+North West,185060,13407,22,Bury
+North West,503127,85986,22,Manchester
+North West,224897,43165,22,Oldham
+North West,211699,31630,22,Rochdale
+North West,233933,9429,22,Salford
+North West,283275,13762,22,Stockport
+North West,219324,14553,22,Tameside
+North West,226578,17973,22,Trafford
+North West,317849,3519,22,Wigan
+North West,87059,9578,22,Burnley
+North West,107155,1710,22,Chorley
+North West,75757,845,22,Fylde
+North West,80734,9007,22,Hyndburn
+North West,138375,3732,22,Lancaster
+North West,89452,16807,22,Pendle
+North West,140202,21732,22,Preston
+North West,57132,729,22,Ribble Valley
+North West,67982,3396,22,Rossendale
+North West,109057,1612,22,South Ribble
+North West,110685,913,22,West Lancashire
+North West,107749,993,22,Wyre
+North West,145893,1403,22,Knowsley
+North West,466415,19403,22,Liverpool
+North West,273790,2719,22,Sefton
+North West,175308,1764,22,St. Helens
+North West,319783,5116,22,Wirral
+Yorkshire and The Humber,334179,2961,22,East Riding of Yorkshire
+Yorkshire and The Humber,256406,6471,22,"Kingston upon Hull, City of"
+Yorkshire and The Humber,159616,2129,22,North East Lincolnshire
+Yorkshire and The Humber,167446,4549,22,North Lincolnshire
+Yorkshire and The Humber,198051,6740,22,York
+Yorkshire and The Humber,55409,970,22,Craven
+Yorkshire and The Humber,89140,600,22,Hambleton
+Yorkshire and The Humber,157869,2409,22,Harrogate
+Yorkshire and The Humber,51965,1247,22,Richmondshire
+Yorkshire and The Humber,51751,273,22,Ryedale
+Yorkshire and The Humber,108793,1364,22,Scarborough
+Yorkshire and The Humber,83449,493,22,Selby
+Yorkshire and The Humber,231221,1661,22,Barnsley
+Yorkshire and The Humber,302402,7614,22,Doncaster
+Yorkshire and The Humber,257280,10551,22,Rotherham
+Yorkshire and The Humber,552698,44385,22,Sheffield
+Yorkshire and The Humber,522452,140149,22,Bradford
+Yorkshire and The Humber,203826,16875,22,Calderdale
+Yorkshire and The Humber,422458,67782,22,Kirklees
+Yorkshire and The Humber,751485,58243,22,Leeds
+Yorkshire and The Humber,325837,8498,22,Wakefield
+East Midlands,248752,31095,22,Derby
+East Midlands,329839,122470,22,Leicester
+East Midlands,305680,40039,22,Nottingham
+East Midlands,37369,365,22,Rutland
+East Midlands,122309,929,22,Amber Valley
+East Midlands,75866,612,22,Bolsover
+East Midlands,103788,1592,22,Chesterfield
+East Midlands,71116,398,22,Derbyshire Dales
+East Midlands,112081,1383,22,Erewash
+East Midlands,90892,711,22,High Peak
+East Midlands,99023,795,22,North East Derbyshire
+East Midlands,94611,2375,22,South Derbyshire
+East Midlands,93915,5718,22,Blaby
+East Midlands,166100,16138,22,Charnwood
+East Midlands,85382,2563,22,Harborough
+East Midlands,105078,2246,22,Hinckley and Bosworth
+East Midlands,50376,518,22,Melton
+East Midlands,93468,1074,22,North West Leicestershire
+East Midlands,56170,12520,22,Oadby and Wigston
+East Midlands,64637,928,22,Boston
+East Midlands,136401,789,22,East Lindsey
+East Midlands,93541,1794,22,Lincoln
+East Midlands,107766,750,22,North Kesteven
+East Midlands,88270,747,22,South Holland
+East Midlands,133788,1580,22,South Kesteven
+East Midlands,89250,728,22,West Lindsey
+East Midlands,61255,782,22,Corby
+East Midlands,77843,1183,22,Daventry
+East Midlands,86765,1096,22,East Northamptonshire
+East Midlands,93475,3023,22,Kettering
+East Midlands,212069,13751,22,Northampton
+East Midlands,85189,1129,22,South Northamptonshire
+East Midlands,75356,4463,22,Wellingborough
+East Midlands,119497,1099,22,Ashfield
+East Midlands,112863,1255,22,Bassetlaw
+East Midlands,109487,4503,22,Broxtowe
+East Midlands,113543,3343,22,Gedling
+East Midlands,104466,1289,22,Mansfield
+East Midlands,114817,1036,22,Newark and Sherwood
+East Midlands,111129,4614,22,Rushcliffe
+West Midlands,183477,1439,22,"Herefordshire, County of"
+West Midlands,306129,3089,22,Shropshire
+West Midlands,249008,18442,22,Stoke-on-Trent
+West Midlands,166641,6991,22,Telford and Wrekin
+West Midlands,97462,982,22,Cannock Chase
+West Midlands,113583,7864,22,East Staffordshire
+West Midlands,100654,1623,22,Lichfield
+West Midlands,123871,3512,22,Newcastle-under-Lyme
+West Midlands,108131,2122,22,South Staffordshire
+West Midlands,130869,3288,22,Stafford
+West Midlands,97106,502,22,Staffordshire Moorlands
+West Midlands,76813,763,22,Tamworth
+West Midlands,62014,580,22,North Warwickshire
+West Midlands,125252,7880,22,Nuneaton and Bedworth
+West Midlands,100075,5225,22,Rugby
+West Midlands,120485,1466,22,Stratford-on-Avon
+West Midlands,137648,9945,22,Warwick
+West Midlands,1073045,285640,22,Birmingham
+West Midlands,316960,51598,22,Coventry
+West Midlands,312925,18942,22,Dudley
+West Midlands,308063,59258,22,Sandwell
+West Midlands,206674,13561,22,Solihull
+West Midlands,269323,41022,22,Walsall
+West Midlands,249470,44960,22,Wolverhampton
+West Midlands,93637,1925,22,Bromsgrove
+West Midlands,74631,902,22,Malvern Hills
+West Midlands,84214,4029,22,Redditch
+West Midlands,98768,4366,22,Worcester
+West Midlands,116944,1129,22,Wychavon
+West Midlands,97975,1390,22,Wyre Forest
+East  ,157479,17932,22,Bedford
+East  ,254381,6402,22,Central Bedfordshire
+East  ,203201,60952,22,Luton
+East  ,183631,21492,22,Peterborough
+East  ,173658,6440,22,Southend-on-Sea
+East  ,157705,5927,22,Thurrock
+East  ,123867,13618,22,Cambridge
+East  ,83818,1215,22,East Cambridgeshire
+East  ,95262,1075,22,Fenland
+East  ,169508,4190,22,Huntingdonshire
+East  ,148755,5540,22,South Cambridgeshire
+East  ,174497,4766,22,Basildon
+East  ,147084,1998,22,Braintree
+East  ,73601,2350,22,Brentwood
+East  ,88011,1012,22,Castle Point
+East  ,168310,4962,22,Chelmsford
+East  ,173074,6355,22,Colchester
+East  ,124659,5922,22,Epping Forest
+East  ,81944,3733,22,Harlow
+East  ,61629,484,22,Maldon
+East  ,83287,881,22,Rochford
+East  ,138048,1275,22,Tendring
+East  ,79443,1122,22,Uttlesford
+East  ,93609,2190,22,Broxbourne
+East  ,144847,6770,22,Dacorum
+East  ,137687,2681,22,East Hertfordshire
+East  ,100031,7393,22,Hertsmere
+East  ,127114,6821,22,North Hertfordshire
+East  ,140664,9011,22,St Albans
+East  ,83957,4848,22,Stevenage
+East  ,87317,7993,22,Three Rivers
+East  ,90301,16170,22,Watford
+East  ,110535,8704,22,Welwyn Hatfield
+East  ,130491,1040,22,Breckland
+East  ,124646,1265,22,Broadland
+East  ,97277,1204,22,Great Yarmouth
+East  ,147451,1863,22,King's Lynn and West Norfolk
+East  ,101499,531,22,North Norfolk
+East  ,132512,5844,22,Norwich
+East  ,124012,1270,22,South Norfolk
+East  ,87740,666,22,Babergh
+East  ,239552,2991,22,East Suffolk
+East  ,133384,5740,22,Ipswich
+East  ,96731,647,22,Mid Suffolk
+East  ,170756,3087,22,West Suffolk
+London,220338,35446,22,Camden
+London,7375,940,22,City of London
+London,246270,25867,22,Hackney
+London,182493,16635,22,Hammersmith and Fulham
+London,254926,24150,22,Haringey
+London,206125,19034,22,Islington
+London,158649,15861,22,Kensington and Chelsea
+London,303086,20938,22,Lambeth
+London,275885,25534,22,Lewisham
+London,307984,133895,22,Newham
+London,288283,27192,22,Southwark
+London,254096,104501,22,Tower Hamlets
+London,306995,33338,22,Wandsworth
+London,219396,31862,22,Westminster
+London,185911,29594,22,Barking and Dagenham
+London,356386,65918,22,Barnet
+London,231997,15243,22,Bexley
+London,311215,105986,22,Brent
+London,309392,16067,22,Bromley
+London,363378,59627,22,Croydon
+London,338449,100439,22,Ealing
+London,312466,34893,22,Enfield
+London,254557,29894,22,Greenwich
+London,239056,101808,22,Harrow
+London,237232,11545,22,Havering
+London,273936,69253,22,Hillingdon
+London,253957,87257,22,Hounslow
+London,160060,26152,22,Kingston upon Thames
+London,199693,36143,22,Merton
+London,278970,116503,22,Redbridge
+London,186990,13607,22,Richmond upon Thames
+London,190146,22035,22,Sutton
+London,258249,54389,22,Waltham Forest
+South East,113205,5664,22,Bracknell Forest
+South East,273369,11278,22,Brighton and Hove
+South East,138265,1514,22,Isle of Wight
+South East,263925,13615,22,Medway
+South East,248821,22782,22,Milton Keynes
+South East,205056,12474,22,Portsmouth
+South East,155698,21161,22,Reading
+South East,140205,55697,22,Slough
+South East,236882,19892,22,Southampton
+South East,153822,3808,22,West Berkshire
+South East,144560,13848,22,Windsor and Maidenhead
+South East,154380,11438,22,Wokingham
+South East,505283,43269,22,Buckinghamshire
+South East,99412,2795,22,Eastbourne
+South East,90254,2126,22,Hastings
+South East,97502,1400,22,Lewes
+South East,90588,1103,22,Rother
+South East,148915,1719,22,Wealden
+South East,167799,6715,22,Basingstoke and Deane
+South East,115608,1859,22,East Hampshire
+South East,125199,3740,22,Eastleigh
+South East,111581,1667,22,Fareham
+South East,82622,1073,22,Gosport
+South East,91033,2448,22,Hart
+South East,120684,1427,22,Havant
+South East,176462,1665,22,New Forest
+South East,93807,9755,22,Rushmoor
+South East,116398,2368,22,Test Valley
+South East,116595,2639,22,Winchester
+South East,117956,3991,22,Ashford
+South East,151145,5135,22,Canterbury
+South East,97365,5799,22,Dartford
+South East,111674,2031,22,Dover
+South East,107969,3699,22,Folkestone and Hythe
+South East,101720,10604,22,Gravesham
+South East,155143,4943,22,Maidstone
+South East,114893,2085,22,Sevenoaks
+South East,135835,1489,22,Swale
+South East,134186,2504,22,Thanet
+South East,120805,2431,22,Tonbridge and Malling
+South East,115049,2903,22,Tunbridge Wells
+South East,141868,6039,22,Cherwell
+South East,151906,18827,22,Oxford
+South East,134257,2405,22,South Oxfordshire
+South East,120988,2962,22,Vale of White Horse
+South East,104779,1424,22,West Oxfordshire
+South East,130875,7075,22,Elmbridge
+South East,75102,6484,22,Epsom and Ewell
+South East,137183,6616,22,Guildford
+South East,85375,2177,22,Mole Valley
+South East,137835,6992,22,Reigate and Banstead
+South East,80510,5561,22,Runnymede
+South East,95598,7295,22,Spelthorne
+South East,86144,5389,22,Surrey Heath
+South East,82998,2164,22,Tandridge
+South East,121572,2283,22,Waverley
+South East,99198,11462,22,Woking
+South East,61182,1058,22,Adur
+South East,149518,2116,22,Arun
+South East,113794,1617,22,Chichester
+South East,106597,13825,22,Crawley
+South East,131301,2585,22,Horsham
+South East,139860,3761,22,Mid Sussex
+South East,104640,3372,22,Worthing
+South West,176016,4577,22,Bath and North East Somerset
+South West,378888,10837,22,"Bournemouth, Christchurch and Poole"
+South West,428234,23655,22,"Bristol, City of"
+South West,532273,3434,22,Cornwall
+South West,365153,3338,22,Dorset
+South West,2203,2,22,Isles of Scilly
+South West,202566,2436,22,North Somerset
+South West,256384,3906,22,Plymouth
+South West,262767,6440,22,South Gloucestershire
+South West,209156,13365,22,Swindon
+South West,130959,1353,22,Torbay
+South West,470981,6178,22,Wiltshire
+South West,132457,930,22,East Devon
+South West,117773,4595,22,Exeter
+South West,77750,428,22,Mid Devon
+South West,93667,835,22,North Devon
+South West,83140,458,22,South Hams
+South West,124220,893,22,Teignbridge
+South West,63839,271,22,Torridge
+South West,53553,300,22,West Devon
+South West,115732,3675,22,Cheltenham
+South West,82881,794,22,Cotswold
+South West,81961,473,22,Forest of Dean
+South West,121688,5839,22,Gloucester
+South West,112779,751,22,Stroud
+South West,81943,901,22,Tewkesbury
+South West,109279,929,22,Mendip
+South West,114588,735,22,Sedgemoor
+South West,144862,1800,22,Somerset West and Taunton
+South West,161243,1409,22,South Somerset
